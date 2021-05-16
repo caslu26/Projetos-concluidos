@@ -1,17 +1,17 @@
 {
-  "name": "variavel",
-  "description": "criando processos com variaveis com anders jensen",
+  "name": "processamento de pedidos de emprestimo",
+  "description": "Processo em Branco",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.10.4]",
-    "UiPath.Mail.Activities": "[1.10.4]",
-    "UiPath.System.Activities": "[21.4.0]",
-    "UiPath.UIAutomation.Activities": "[21.4.3]"
+    "UiPath.Excel.Activities": "[2.9.5]",
+    "UiPath.Mail.Activities": "[1.9.5]",
+    "UiPath.System.Activities": "[20.10.4]",
+    "UiPath.UIAutomation.Activities": "[20.10.9]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "21.4.3.0",
+  "studioVersion": "20.10.6.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -43,13 +43,12 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "e791d105-0999-4b7f-a8cb-eeda6b4e8f44",
+      "uniqueId": "a39e1788-4da1-4419-a3de-697f69bfeff0",
       "input": [],
       "output": []
     }
   ],
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {},
-  "targetFramework": "Legacy"
+  "publishData": {}
 }
